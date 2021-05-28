@@ -4,7 +4,7 @@ pragma solidity ^0.8.4;
 /*
 Details
 Name: SafeBag / Line 40
-Name: SBAG / Line 41
+Symbol: SBAG / Line 41
 Decimals: 9 / Line 42
 
 Tokenomics
