@@ -2,11 +2,17 @@
 pragma solidity ^0.8.4;
 
 /*
+Details
+Name: SafeBag / Line 40
+Name: SBAG / Line 41
+Decimals: 9 / Line 42
+
 Tokenomics
-Supply: 100 Million
-2% Reflection
-3% Auto Liquidity
-Whale Protection: 2%
+Supply: 100 Million / Line 36
+2% Reflection / Line 44
+3% Auto Liquidity / Line 47
+Whale Protection: 2% / Line 56
+Liquidity Amount: 200k / Line 57
 */
 import "@openzeppelin/contracts/utils/Context.sol";
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
